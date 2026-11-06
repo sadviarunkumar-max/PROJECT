@@ -12,6 +12,7 @@
   "type": "commonjs",
   "dependencies": {
     "angular": "^1.8.3"
+<<<<<<< HEAD
   },
   "devDependencies": {},
   "repository": {
@@ -22,4 +23,7 @@
     "url": "https://github.com/sadviarunkumar-max/PROJECT/issues"
   },
   "homepage": "https://github.com/sadviarunkumar-max/PROJECT#readme"
+=======
+  }
+>>>>>>> b935ef278b72ab019a7823d0db98d238db3bdbab
 }
